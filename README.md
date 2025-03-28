@@ -4,11 +4,11 @@
 ## Projeto
 Galeria Grid
 
-## Autor
-Weslei Santos
 
 ## Tecnologias
 * CSS
 * HTML
 * GIT
 * MarkDown
+
+&copy; 2025 | Weslei Santos
